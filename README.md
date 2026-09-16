@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusrilarr&label=Profile%20views&color=0e75b6&style=flat" alt="yusrilarr" /> </p>
 
-- 🔭 I’m currently working on **Web, Mobile applications & automation tools**
-
-- 🌱 I’m currently learning **Python, React.js, Node.js, Express.js, Golang**
+- 🔭 I’m currently working on **Web & Mobile applications**
 
 - 👯 I’m looking to collaborate on **Web and Mobile development projects**
 
