@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **yusrildisorder5@gmail.com**
 
-- 📄 Know about my experiences [Programming & technical notes](Programming & technical notes)
-
 - ⚡ Fun fact **If you’re planning to bring down the regime, then we’re friends**
 
 <h3 align="left">Connect with me:</h3>
