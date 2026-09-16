@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **Clean architecture & scalable applications**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
-
 - 💬 Ask me about **Anything you want**
 
 - 📫 How to reach me **yusrildisorder5@gmail.com**
